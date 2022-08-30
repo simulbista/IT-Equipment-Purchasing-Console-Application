@@ -1,0 +1,15 @@
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\bin\Debug\net6.0\ITE-5231-FinalProject.exe
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\bin\Debug\net6.0\ITE-5231-FinalProject.deps.json
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\bin\Debug\net6.0\ITE-5231-FinalProject.runtimeconfig.json
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\bin\Debug\net6.0\ITE-5231-FinalProject.dll
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\bin\Debug\net6.0\ITE-5231-FinalProject.pdb
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\obj\Debug\net6.0\ITE-5231-FinalProject.csproj.AssemblyReference.cache
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\obj\Debug\net6.0\ITE-5231-FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\obj\Debug\net6.0\ITE-5231-FinalProject.AssemblyInfoInputs.cache
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\obj\Debug\net6.0\ITE-5231-FinalProject.AssemblyInfo.cs
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\obj\Debug\net6.0\ITE-5231-FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\obj\Debug\net6.0\ITE-5231-FinalProject.dll
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\obj\Debug\net6.0\refint\ITE-5231-FinalProject.dll
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\obj\Debug\net6.0\ITE-5231-FinalProject.pdb
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\obj\Debug\net6.0\ITE-5231-FinalProject.genruntimeconfig.cache
+C:\Users\simul\source\repos\ITE-5231-FinalProject\ITE-5231-FinalProject\obj\Debug\net6.0\ref\ITE-5231-FinalProject.dll
